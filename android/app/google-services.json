@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "688332445768",
+    "project_id": "elue-store",
+    "storage_bucket": "elue-store.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:688332445768:android:89ff8d237cde6dca3f607d",
+        "android_client_info": {
+          "package_name": "com.elue.elue_store"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDud57C-PFVHcydXeLzH6ao2I108xBlWUA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
