@@ -39,11 +39,13 @@ class SettingsScreen extends StatelessWidget {
                   children: [
                     /// AppBar
                     TAppBar(
-                        title: Text('Account',
-                            style: Theme.of(context)
-                                .textTheme
-                                .headlineMedium!
-                                .apply(color: TColors.black))),
+                      title: Text(
+                        'Account',
+                        style: Theme.of(
+                          context,
+                        ).textTheme.headlineMedium!.apply(color: TColors.black),
+                      ),
+                    ),
 
                     /// User Profile Card
                     TUserProfileTile(onPressed: () => Get.to(() {})),
@@ -63,7 +65,9 @@ class SettingsScreen extends StatelessWidget {
 
                     /// -- Account  Settings
                     const TSectionHeading(
-                        title: 'Account Settings', showActionButton: false),
+                      title: 'Account Settings',
+                      showActionButton: false,
+                    ),
                     const SizedBox(height: TSizes.spaceBtwItems),
                     // TSettingsMenuTile(
                     //   icon: Iconsax.safe_home,
@@ -121,19 +125,32 @@ class SettingsScreen extends StatelessWidget {
                     //   subTitle: 'Set image quality to be seen',
                     //   trailing: Switch(value: false, onChanged: (value) {}),
                     // ),
+                    const SizedBox(height: TSizes.spaceBtwSections),
+
+                    const Center(
+                      child: 
+                      InkWell( () {
+                            controller.deleteUserAccount(); 
+                                    },
+                       child: Text('Delete Account', style: Theme.of(context).textTheme.bodySmall))))
 
                     /// -- Logout Button
                     const SizedBox(height: TSizes.spaceBtwSections),
 
                     SizedBox(
-                        width: double.infinity,
-                        child: OutlinedButton(
-                            onPressed: () => controller.isUserLoggedIn()
-                                ? controller.logout()
-                                : Get.offAll(const LoginScreen()),
-                            child: controller.isUserLoggedIn()
+                      width: double.infinity,
+                      child: OutlinedButton(
+                        onPressed:
+                            () =>
+                                controller.isUserLoggedIn()
+                                    ? controller.logout()
+                                    : Get.offAll(const LoginScreen()),
+                        child:
+                            controller.isUserLoggedIn()
                                 ? const Text('Logout')
-                                : const Text("Login"))),
+                                : const Text("Login"),
+                      ),
+                    ),
                     const SizedBox(height: TSizes.spaceBtwSections * 2.5),
                   ],
                 ),
