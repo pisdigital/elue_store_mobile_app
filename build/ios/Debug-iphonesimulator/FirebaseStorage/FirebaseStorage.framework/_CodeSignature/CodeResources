@@ -10,7 +10,7 @@
 		</data>
 		<key>Headers/FirebaseStorage-Swift.h</key>
 		<data>
-		wbVdnY7I7oDO8NbVkbSv451FCzY=
+		fnpxk2Qf7aVyupJ4WKe0gquyW+I=
 		</data>
 		<key>Headers/FirebaseStorage-umbrella.h</key>
 		<data>
@@ -18,15 +18,15 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		J+qqoACiZWEqbFnTyc6xnDzLubA=
+		Nq5kpry4C/HuYS8fpLtdIAVc2rc=
 		</data>
 		<key>Modules/FirebaseStorage.swiftmodule/Project/arm64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		27yf9CmnfuLyM4SLXfbeFMCMV5s=
+		BnUIOfy4bPf9bh3zp2vI3fwZidE=
 		</data>
 		<key>Modules/FirebaseStorage.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		4o05DcWYINL8YHokC8FjIg4FMZ8=
+		E3RXUmPNQ4vOkZRoWNGRs54svqU=
 		</data>
 		<key>Modules/FirebaseStorage.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -34,11 +34,11 @@
 		</data>
 		<key>Modules/FirebaseStorage.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		UbTj2IQV1tv86EdX6d09VItz7C8=
+		rH56sP5ioIsJedVhTJ7wva5MNQs=
 		</data>
 		<key>Modules/FirebaseStorage.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		PMrg/uOkJmrCwKly0nUv8FXCxJo=
+		6pEYbC5TfkcZjXjVuqqjvPDJVCI=
 		</data>
 		<key>Modules/FirebaseStorage.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -46,11 +46,11 @@
 		</data>
 		<key>Modules/FirebaseStorage.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		bV4jDHZQ4T+FqqD36EmsLgstRSw=
+		mdgXWNvFDgaUTHfrwFu0d5KfVtw=
 		</data>
 		<key>Modules/FirebaseStorage.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		XFpp7X6d9/8c5tVCRcCnrxEMZqk=
+		/cCNANvWXOAErHa4yakVSENJQqQ=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -70,7 +70,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			dtTkLMVC81nOJoRWKLRhvBLESchAvGl6AcV6fsMZIXI=
+			A/J4xI08KXsvT0NykFW7ugPryudnrYUJV2Ue3CIhSwE=
 			</data>
 		</dict>
 		<key>Headers/FirebaseStorage-umbrella.h</key>
@@ -84,14 +84,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			hpFLyR1iSh4T2GKMymv1fTnR085VKc1v7/SM9lZ8bO8=
+			VfkK5r+QB0GfLbUKTD+EumcLm8Kc/JB8AIlUJCt0h1E=
 			</data>
 		</dict>
 		<key>Modules/FirebaseStorage.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			w20+E1MJvLivU+WXIyDV/dwb9YBQZ0urClc3OS/tFvw=
+			hxj901FlHgEmaOSfeFNuPVvhyHvmZNMHzTUhnEZhmrc=
 			</data>
 		</dict>
 		<key>Modules/FirebaseStorage.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
@@ -105,14 +105,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			jjmeBrIPoRUwIZ5sFMF2amf88M5UnB1FW8MdIE+ExTo=
+			TbiAp9ggkxHkR0o/3NNRxH+FG/9ikPuR16QUnApzfWQ=
 			</data>
 		</dict>
 		<key>Modules/FirebaseStorage.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			WhV1nHAK+olqy+4jdIDVpQ6BkauzZA7rEeNjX/SKVvw=
+			YJvVj+1p0r0iLLdLbWRzNgmMe/oFZQGRknS+duAUmQo=
 			</data>
 		</dict>
 		<key>Modules/FirebaseStorage.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
@@ -126,14 +126,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			1EA/6enfWDeRxKarumBytc8RmLJhGONS+46BDkZ6PC8=
+			Nx8Xq7UgGyL0wrf1H5UnmcG+jcSBdyvzD9iTW8hQkjs=
 			</data>
 		</dict>
 		<key>Modules/FirebaseStorage.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			mbizlJYXumjHFoHihh5HcuHjsSGQIuxWLfSfHD9KUIw=
+			wNv7Ue4utLhR4gW5ZcEOtAON+1xzEVk++qcR496LPOQ=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
